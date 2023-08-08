@@ -11,4 +11,9 @@ package guia_1;
  */
 public class Usuario {
     private String nombre;
+    private int edad;
+    
+    
+    
+    
 }
