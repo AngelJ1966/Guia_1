@@ -1,14 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package guia_1;
 
-/**
- *
- * @author paulo
- */
+
 public class Guia_1 {
 
     
@@ -17,7 +10,7 @@ public class Guia_1 {
         System.out.println("Hello World");
         System.out.println("Este cambio es nuevo");
       
-        
+        System.out.println("Probando...");
         
         
         
